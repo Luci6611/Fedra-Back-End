@@ -1,7 +1,7 @@
 {
     "version": 2,
     "name": "fedra-backend",
-    "alias": ["Fedra-Backend"],
+    "alias": ["fedra-Backend"],
     "builds": [{ "src": "index.js", "use": "@vercel/node" }],
     "routes": [{
       "headers": {
